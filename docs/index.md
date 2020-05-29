@@ -29,4 +29,10 @@ In the Presentation (Input/Output) section, create a new class called IO.  Adapt
 Figure 4  
 ![Results of Figure 5](https://github.com/stnunn/IntroToProg-Python-Mod07/blob/master/docs/Figure05.png "Results of Figure 5")  
 Figure 5  
+### Step 5
+In the Main Body of the Script, first use the Processor.read_data_from_fileb() function to call the function which will load all the data from the file, and assign it to variable unPklList (Un-Pickled List).  Note the use of the “class” prefix “Processor”, then the “.”, then the function name.  We continue to use conditional logic and calling our IO functions to determine the user choice.  Based on user choice, we prompt for inputs and pass the parameters/arguments back to the functions via function calls.  This makes our Main Body much more readable, and allows us to reuse our functions, as seen in Figure 6 and Figure 7.  
+![Results of Figure 6](https://github.com/stnunn/IntroToProg-Python-Mod07/blob/master/docs/Figure06.png "Results of Figure 6")  
+Figure 6  
+![Results of Figure 7](https://github.com/stnunn/IntroToProg-Python-Mod07/blob/master/docs/Figure07.png "Results of Figure 7")  
+Figure 7  
 ## Summary
