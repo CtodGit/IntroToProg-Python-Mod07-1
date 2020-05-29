@@ -19,4 +19,14 @@ Figure 1
 In the “Data” section, declare your variables and constants, as seen in Figure 2.  
 ![Results of Figure 2](https://github.com/stnunn/IntroToProg-Python-Mod07/blob/master/docs/Figure02.png "Results of Figure 2")  
 Figure 2
+### Step 3
+In the “Processing” section, create a “class” called “Processor”.  Then, indent and create all the “Processor” class functions., as seen in Figure 3.  The “class” allows us to better organize our functions.  Adapt the code from Assignment 6 to work with Exception Handling and Pickling, as highlighted in Figure 3.  Exception Handing allows us to handle for particular (or general) error messages.  As can be seen, I use sys.exit() to stop the program after informing the user of what they should do.  The highlighted pickle.load(file) command loads the pickled .dat file into a list called fileData that can be read by Python and the user, as seen in Figure 3.  
+![Results of Figure 3](https://github.com/stnunn/IntroToProg-Python-Mod07/blob/master/docs/Figure03.png "Results of Figure 3")  
+Figure 3  
+### Step 4
+In the Presentation (Input/Output) section, create a new class called IO.  Adapt the code from Assignment 6 to work within the new functions, as seen in Figure 4 and Figure 5.  
+![Results of Figure 4](https://github.com/stnunn/IntroToProg-Python-Mod07/blob/master/docs/Figure04.png "Results of Figure 4")  
+Figure 4  
+![Results of Figure 5](https://github.com/stnunn/IntroToProg-Python-Mod07/blob/master/docs/Figure05.png "Results of Figure 5")  
+Figure 5  
 ## Summary
