@@ -10,6 +10,9 @@ Useful websites for learning about Pickling:
 https://www.geeksforgeeks.org/understanding-python-pickling-example/  
 The website above was useful in learning more about the advantages of using the Pickle Module, specifically: Recursive Objects, Object Sharing, and User-defined classes.  
 
-## Topic 1
-### Subtopic
+## Instructions
+### Step 1
+Start a new PyCharm project called “Assignment07” within the C:\_PythonClass\ directory.  Create a Header section with your information, and create a section for importing Modules, as seen in Figure 1.  
+xxx
+Figure 01
 ## Summary
