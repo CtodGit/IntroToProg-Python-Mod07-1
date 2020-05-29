@@ -13,6 +13,6 @@ The website above was useful in learning more about the advantages of using the 
 ## Instructions
 ### Step 1
 Start a new PyCharm project called “Assignment07” within the C:\_PythonClass\ directory.  Create a Header section with your information, and create a section for importing Modules, as seen in Figure 1.  
-xxx
+![Results of Figure 1](https://github.com/stnunn/IntroToProg-Python-Mod07/blob/master/docs/Figure01.png "Results of Figure 1")
 Figure 01
 ## Summary
