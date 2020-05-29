@@ -35,4 +35,14 @@ In the Main Body of the Script, first use the Processor.read_data_from_fileb() f
 Figure 6  
 ![Results of Figure 7](https://github.com/stnunn/IntroToProg-Python-Mod07/blob/master/docs/Figure07.png "Results of Figure 7")  
 Figure 7  
+### Step 6
+Run the program in the command prompt, as seen in Figures 8 – 11, below.  
+![Results of Figure 8](https://github.com/stnunn/IntroToProg-Python-Mod07/blob/master/docs/Figure08.png "Results of Figure 8")  
+Figure 8  
+![Results of Figure 9](https://github.com/stnunn/IntroToProg-Python-Mod07/blob/master/docs/Figure09.png "Results of Figure 9")  
+Figure 9  
+![Results of Figure 10](https://github.com/stnunn/IntroToProg-Python-Mod07/blob/master/docs/Figure10.png "Results of Figure 10")  
+Figure 10  
+![Results of Figure 11](https://github.com/stnunn/IntroToProg-Python-Mod07/blob/master/docs/Figure11.png "Results of Figure 11")  
+Figure 11  
 ## Summary
