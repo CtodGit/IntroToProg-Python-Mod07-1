@@ -45,4 +45,9 @@ Figure 9
 Figure 10  
 ![Results of Figure 11](https://github.com/stnunn/IntroToProg-Python-Mod07/blob/master/docs/Figure11.png "Results of Figure 11")  
 Figure 11  
+### Step 7
+Open the .dat file to see the Tasks and Priorities which have been saved in a Pickled/Binary/Obscured format, as seen in Figure 12.  
+![Results of Figure 12](https://github.com/stnunn/IntroToProg-Python-Mod07/blob/master/docs/Figure12.png "Results of Figure 12")  
+Figure 12  
 ## Summary
+In this assignment, we learned how to modify our Assignment 6 code into Assignment 7 code that utilizes both Exception Handling and Pickling to create a more advanced program.  Exception Handling allows us to present the user with messages that are more useful and less confusing than a Python-generated error.  Pickling allow us to store data more easily in a .dat file.  Binary files (.dat) store data more efficiently than .txt files.
