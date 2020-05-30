@@ -52,4 +52,4 @@ Figure 12
 ## Summary
 In this assignment, we learned how to modify our Assignment 6 code into Assignment 7 code that utilizes both Exception Handling and Pickling to create a more advanced program.  Exception Handling allows us to present the user with messages that are more useful and less confusing than a Python-generated error.  Pickling allow us to store data more easily in a .dat file.  Binary files (.dat) store data more efficiently than .txt files.
 
-https://stnunn.github.io/IntroToProg-Python-Mod07
+https://stnunn.github.io/IntroToProg-Python-Mod07/  
